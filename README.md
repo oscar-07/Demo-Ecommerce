@@ -14,10 +14,12 @@
 
 
 ## Libreria:
+React
 
 
 
 ## Entorno:
+NodeJs
 
 
 
