@@ -11,17 +11,11 @@
 ## Base de datos: 
 * MongoDB
 
-
-
 ## Libreria:
-React
-
-
+* React
 
 ## Entorno:
-NodeJs
-
-
+* NodeJs
 
 ## Dependencias:
 * bcrypt: 5.0.1
