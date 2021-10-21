@@ -49,9 +49,18 @@ app.use('/api/orders',routerOrder);
 app.get('/api/config/paypal', (req, res) => {
     res.send(process.env.PAYPAL_CLIENT_ID || 'sb');
 });
-app.get('/', (req, res)=>{
-    res.send('Servidor listo');
-});
+
+const __dirname = path.resolve();
+app.use(express.static(path.join(__dirname, '/frontend/build')));
+app.get('*', (req, res) =>                                              /*ojo con esto */
+  res.sendFile(path.join(__dirname, '/frontend/build/index.html'))
+);
+
+
+
+//app.get('/', (req, res)=>{
+//    res.send('Servidor listo');        //*************** CUIDADO
+//});
 
 
 app.use((err, req, res,next)=>{
