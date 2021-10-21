@@ -1,12 +1,13 @@
 # Demo-Ecommerce
 
+https://demo-ecommerce-1.herokuapp.com/
 
 ![Inicio](/auxi/aux1.PNG)
-![Ligas](/auxi/aux2.PNG)
-![Ligas](/auxi/aux3.PNG)
-![Ligas](/auxi/aux4.PNG)
-![Ligas](/auxi/aux5.PNG)
-![Ligas](/auxi/aux6.PNG)
+![lista](/auxi/aux2.PNG)
+![datos](/auxi/aux3.PNG)
+![procesos](/auxi/aux4.PNG)
+![paypal](/auxi/aux5.PNG)
+![historial](/auxi/aux6.PNG)
 
 ## Base de datos: 
 * MongoDB
