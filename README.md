@@ -2,13 +2,6 @@
 
 https://demo-ecommerce-1.herokuapp.com/
 
-![Inicio](/auxi/aux1.PNG)
-![lista](/auxi/aux2.PNG)
-![datos](/auxi/aux3.PNG)
-![procesos](/auxi/aux4.PNG)
-![paypal](/auxi/aux5.PNG)
-![historial](/auxi/aux6.PNG)
-
 ## Base de datos: 
 * MongoDB
 
@@ -39,3 +32,12 @@ https://demo-ecommerce-1.herokuapp.com/
 * redux-thunk: 2.3.0,
 * web-vitals: 1.1.2
 * jsonwebtoken: 8.5.1
+
+![Inicio](/auxi/aux1.PNG)
+![lista](/auxi/aux2.PNG)
+![datos](/auxi/aux3.PNG)
+![procesos](/auxi/aux4.PNG)
+![paypal](/auxi/aux5.PNG)
+![historial](/auxi/aux6.PNG)
+
+
