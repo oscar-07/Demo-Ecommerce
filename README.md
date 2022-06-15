@@ -1,6 +1,5 @@
 # Demo-Ecommerce
 
-https://demo-ecommerce-1.herokuapp.com/
 
 ## Base de datos: 
 * MongoDB
